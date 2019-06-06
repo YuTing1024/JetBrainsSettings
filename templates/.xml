@@ -1,0 +1,8 @@
+<templateSet group="星网锐捷">
+  <template name="jj" value="/*&#10;* Copyright(C) 2019 Ruijie Network. All rights reserved.&#10;*&#10;* @author hw,xlp,mxl,yuting&#10;* @description ...功能说明&#10;* @solution all,ionc,sdn&#10;* @isStatic no&#10;**/" description="注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="hh" value="&lt;!-- @author:hw,xlp,mxl,yuting --&gt;&#10;&lt;!-- @description:模块功能说明 --&gt;&#10;&lt;!-- @solution:all,ionc,sdn --&gt;&#10;&lt;!-- @isStatic:no --&gt;" description="注释" toReformat="true" toShortenFQNames="true" />
+</templateSet>
