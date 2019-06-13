@@ -4,7 +4,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="hh" value="&lt;!-- @author:hw,xlp,mxl,yuting --&gt;&#10;&lt;!-- @description:模块功能说明 --&gt;&#10;&lt;!-- @solution:all,ionc,sdn --&gt;&#10;&lt;!-- @isStatic:no --&gt;&#10;&#10;&lt;div class=&quot;blockDiv&quot; id=&quot;device-page&quot; style=&quot;width:100%;&quot;&gt;&#10;    &lt;div class=&quot;content blockDivContent&quot;&gt;&#10;        &lt;div class=&quot;trapezoidLeft trapezoidRight&quot; id=&quot;trapezoidLeft&quot;&gt;&lt;/div&gt;&#10;        &lt;div class=&quot;leftMenu&quot; style=&quot;margin-top:6px;padding-top: 0px;display: none;&quot;&gt;&#10;            &lt;zone-tree @get-zone=&quot;setDeviceZoneId&quot;&gt;&lt;/zone-tree&gt;&#10;        &lt;/div&gt;&#10;        &lt;div class=&quot;device_content&quot;&gt;&#10;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" description="注释" toReformat="true" toShortenFQNames="true">
+  <template name="hh" value="&lt;!-- @author:hw,xlp,mxl,yuting --&gt;&#10;&lt;!-- @description:模块功能说明 --&gt;&#10;&lt;!-- @solution:all,ionc,sdn --&gt;&#10;&lt;!-- @isStatic:no --&gt;&#10;&#10;" description="注释" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
