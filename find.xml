@@ -9,11 +9,11 @@
     <mask>*.shtm</mask>
     <mask>*.sht</mask>
     <mask>*.ng</mask>
-    <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
   </component>
 </application>
