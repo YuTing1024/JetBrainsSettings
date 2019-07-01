@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -13,10 +13,10 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.html</mask>
     <mask>*.bat</mask>
     <mask>*.properties</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
