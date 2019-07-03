@@ -1,0 +1,8 @@
+<templateSet group="自定义">
+  <template name="ci" value="console.info(&quot;$VAR0$&quot;,$VAR0$);" description="控制台打印" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
