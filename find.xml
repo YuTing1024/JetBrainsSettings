@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -14,11 +15,11 @@
     <mask>*.cjs</mask>
     <mask>*.bat</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.p*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>rui.grid.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
