@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -16,9 +17,9 @@
     <mask>*.properties</mask>
     <mask>*.scss</mask>
     <mask>*.p*</mask>
-    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>rui.grid.js</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
