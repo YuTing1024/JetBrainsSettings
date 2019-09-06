@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -19,8 +20,8 @@
     <mask>*.scss</mask>
     <mask>*.p*</mask>
     <mask>rui.grid.js</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
   </component>
 </application>
